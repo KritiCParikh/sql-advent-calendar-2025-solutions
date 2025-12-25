@@ -1,0 +1,1 @@
+# sql-advent-calendar-2025-solutions
